@@ -1,3 +1,11 @@
+libqtelegram-ae (1.0.0-2aseman1-xenial-1) unstable; urgency=medium
+
+  * Repack for debian unstable.
+    - Enable hardening flags.
+    - Update copyrights.
+
+ -- Boyuan Yang <073plan@gmail.com>  Wed, 03 Aug 2016 16:13:51 +0800
+
 libqtelegram-ae (1.0.0-2aseman1-xenial) xenial; urgency=medium
 
   * Port to the new code-generator 2.0
