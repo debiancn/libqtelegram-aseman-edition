@@ -1,3 +1,14 @@
+libqtelegram-ae (1.0.0-2aseman1.1-xenial-1) unstable; urgency=medium
+
+  * New upstream commit d113055b:
+    - API54 support:
+      + New secret chat objects and Core.
+      + Secret Chat API23 support.
+    - Split submodule libqtelegram-code-generator.
+    - Import submodule commit c1b19f33.
+
+ -- Boyuan Yang <073plan@gmail.com>  Tue, 30 Aug 2016 17:32:12 +0800
+
 libqtelegram-ae (1.0.0-2aseman1-xenial-1) unstable; urgency=medium
 
   * Repack for debian unstable.
