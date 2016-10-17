@@ -14,7 +14,7 @@ include /usr/share/dpkg/buildflags.mk
 
 # git submodule dirname
 _CODEGEN_DIR = libqtelegram-code-generator
-_LIBQTELEGRAM_COMPAT_LEVEL = 54
+_LIBQTELEGRAM_COMPAT_LEVEL = 57
 
 %:
 	dh $@ 

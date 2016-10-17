@@ -1,3 +1,12 @@
+libqtelegram-ae (1.0.0-2aseman1.1-xenial-1+git20161017.0.cad9b5de-1) unstable; urgency=medium
+
+  * New upstream commit 1865e023, released on 20161008:
+    - Update to API57.
+  * Update libqtelegram-code-generator to HEAD.
+  * Update debhelper compat to v10.
+
+ -- Boyuan Yang <073plan@gmail.com>  Mon, 17 Oct 2016 22:52:57 +0800
+
 libqtelegram-ae (1.0.0-2aseman1.1-xenial-1+git20161002.87681bfc.1-1) unstable; urgency=medium
 
   * New upstream commit 87681bfc, released on 20160928:

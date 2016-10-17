@@ -3,10 +3,9 @@ Priority: optional
 Maintainer: Aseman Team <contact@aseman.co>
 Build-Depends:
  cmake,
- debhelper (>= 9),
+ debhelper (>= 10),
  libssl-dev,
  pkg-config,
- qt5-default,
  qtbase5-dev (>= 5.0),
  qtmultimedia5-dev,
 Standards-Version: 3.9.8
