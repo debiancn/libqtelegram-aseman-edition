@@ -4,7 +4,7 @@ Maintainer: Aseman Team <contact@aseman.co>
 Build-Depends:
  cmake,
  debhelper (>= 10),
- libssl-dev,
+ libssl1.0-dev,
  pkg-config,
  qtbase5-dev (>= 5.0),
  qtmultimedia5-dev,
