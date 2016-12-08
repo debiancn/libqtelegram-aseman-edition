@@ -8,6 +8,7 @@ Build-Depends:
  pkg-config,
  qtbase5-dev (>= 5.0),
  qtmultimedia5-dev,
+ zlib1g-dev,
 Standards-Version: 3.9.8
 Section: libs
 Homepage: https://github.com/Aseman-Land/libqtelegram-aseman-edition

@@ -1,3 +1,9 @@
+libqtelegram-ae (1.0.0-2aseman1.1-xenial-1+git20161017.0.cad9b5de-2) unstable; urgency=medium
+
+  * Add zlib1g-dev into B-D to prevent FTBFS.
+
+ -- Boyuan Yang <073plan@gmail.com>  Thu, 08 Dec 2016 21:12:02 +0800
+
 libqtelegram-ae (1.0.0-2aseman1.1-xenial-1+git20161017.0.cad9b5de-1) unstable; urgency=medium
 
   * New upstream commit 1865e023, released on 20161008:
